@@ -1,0 +1,18 @@
+.gallery {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.gallery img {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
